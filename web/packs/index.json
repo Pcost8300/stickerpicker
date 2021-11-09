@@ -1,6 +1,7 @@
 {
   "packs": [
-    "GatitusDeMierda.json"
+    "GatitusDeMierda.json",
+    "NkoSip.json"
   ],
   "homeserver_url": "https://matrix.fairydust.space"
 }
